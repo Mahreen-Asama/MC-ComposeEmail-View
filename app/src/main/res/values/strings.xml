@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LinearLayout</string>
+    <string name="app_name">Compose Email</string>
     <string name="to">To</string>
     <string name="subject">Subject</string>
     <string name="message">Message</string>
